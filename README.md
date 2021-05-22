@@ -1,6 +1,6 @@
 # Katas
 
-##A few katas for programming dexterity
+## A few katas for programming dexterity
 
 ## Categories
 

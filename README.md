@@ -7,3 +7,7 @@
 ### Arrays
 
 [Tournament Winner](./arrays/tournament-winner)
+
+### Dynamic Programming
+
+[Number of Ways to Make Change](./dynamic-programming/number-of-ways-to-make-change)

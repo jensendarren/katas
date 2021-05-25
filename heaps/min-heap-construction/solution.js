@@ -49,13 +49,13 @@ class MinHeap {
 	remove() {
 		this.swap(0, this.heap.length - 1, this.heap)
 		const valueToRemove = this.heap.pop()
-		this.shiftDown(0, this.heap.lenth -1, this.heap)
+		this.shiftDown(0, this.heap.length -1, this.heap)
 		return valueToRemove
 	}
 
 	insert(value) {
 		this.heap.push(value)
-		this.shiftUp(this.heap.lenghth -1, this.heap)
+		this.shiftUp(this.heap.length -1, this.heap)
 	}
 
 	swap(i, j, heap) {
@@ -64,3 +64,6 @@ class MinHeap {
 		heap[i] = temp
 	}
 }
+
+// Do not edit the line below.
+exports.MinHeap = MinHeap;

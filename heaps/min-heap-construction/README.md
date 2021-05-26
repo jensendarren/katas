@@ -1,4 +1,4 @@
-## Min Heap Construction
+## Heaps: Min Heap Construction
 
 ### Implement a MinHeap class that supports:
 

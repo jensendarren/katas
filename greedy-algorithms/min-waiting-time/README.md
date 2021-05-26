@@ -1,4 +1,4 @@
-## Greedy Algorithms
+## Greedy Algorithms: Min Waiting Time
 
 You're given a non-empty array of positive integers representing the amounts
 of time that specific queries take to execute. Only one query can be executed

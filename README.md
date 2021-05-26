@@ -18,4 +18,4 @@
 
 ### Greedy Algorithms
 
-[Min Wait Time](./greedy-algorithms/min-wait-time)
+[Min Wait Time](./greedy-algorithms/min-waiting-time)

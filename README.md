@@ -15,3 +15,7 @@
 ### Heaps
 
 [Min Heap Construction](./heaps/min-heap-construction)
+
+### Greedy Algorithms
+
+[Min Wait Time](./greedy-algorithms/min-wait-time)

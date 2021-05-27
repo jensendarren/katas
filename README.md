@@ -19,3 +19,7 @@
 ### Greedy Algorithms
 
 [Min Waiting Time](./greedy-algorithms/min-waiting-time)
+
+### Algorithms
+
+[Kadence](./algorithms/kadance)

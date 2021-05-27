@@ -22,4 +22,4 @@
 
 ### Algorithms
 
-[Kadence](./algorithms/kadance)
+[Kadence](./algorithms/kadane)

@@ -28,3 +28,7 @@
 ### Algorithms
 
 * [Kadence](./algorithms/kadane)
+
+### Binary Search Trees
+
+* [Find Closest Value in BST](./bst/find-closest)

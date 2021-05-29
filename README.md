@@ -7,6 +7,7 @@
 ### Arrays
 
 [Tournament Winner](./arrays/tournament-winner)
+[Two Number Sum](./arrays/two-number-sum)
 
 ### Strings
 

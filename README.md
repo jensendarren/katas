@@ -32,3 +32,7 @@
 ### Binary Search Trees
 
 * [Find Closest Value in BST](./bst/find-closest)
+
+### Binary Trees
+
+* [Branch Sums](./binary-trees/branch-sums)

@@ -16,6 +16,7 @@
 ### Dynamic Programming
 
 * [Number of Ways to Make Change](./dynamic-programming/number-of-ways-to-make-change)
+* [Max Subset Sum No Adjacent](./dynamic-programming/max-subset-sum-no-adjacent)
 
 ### Heaps
 

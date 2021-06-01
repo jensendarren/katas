@@ -37,3 +37,7 @@
 ### Binary Trees
 
 * [Branch Sums](./binary-trees/branch-sums)
+
+### Recursion
+
+* [Product Sum](./recursion/product-sum)

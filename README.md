@@ -41,3 +41,7 @@
 ### Recursion
 
 * [Product Sum](./recursion/product-sum)
+
+### Search
+
+* [Find Three Largest Numbers](./search/find-three-largest)

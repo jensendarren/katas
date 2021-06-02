@@ -1,3 +1,6 @@
+// Time o(n) where n is the number of elements in the array since we need to traverse each
+// Space o(1) since we will store just 3 elements at a time for the largest
+
 function findThreeLargestNumbers(array) {
   const threeLargest = [null, null, null]
   for (const num of array) {

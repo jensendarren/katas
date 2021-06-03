@@ -17,6 +17,7 @@
 
 * [Number of Ways to Make Change](./dynamic-programming/number-of-ways-to-make-change)
 * [Max Subset Sum No Adjacent](./dynamic-programming/max-subset-sum-no-adjacent)
+* [Min Number of Coins for Change](./dynamic-programming/min-number-of-coins-for-change)
 
 ### Heaps
 

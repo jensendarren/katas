@@ -16,9 +16,9 @@ function removeDuplicatesFromLinkedList(linkedList) {
 
     // here we update the current nodes next pointer to the next distinct node
     // thereby removeing all the duplicates in between
-  	currentNode.next = nextDistinctNode;
+    currentNode.next = nextDistinctNode;
     // we update the current node to be this new distinct ndoe and continue on
-  	currentNode = nextDistinctNode;
+    currentNode = nextDistinctNode;
 	}
   return linkedList;
 }

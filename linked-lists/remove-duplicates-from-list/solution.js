@@ -19,7 +19,7 @@ function removeDuplicatesFromLinkedList(linkedList) {
     currentNode.next = nextDistinctNode;
     // we update the current node to be this new distinct ndoe and continue on
     currentNode = nextDistinctNode;
-	}
+  }
   return linkedList;
 }
 

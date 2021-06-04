@@ -46,3 +46,7 @@
 ### Search
 
 * [Find Three Largest Numbers](./search/find-three-largest)
+
+### Linked Lists
+
+* [Remove Duplicates from List](./linked-lists/remove-duplicates-from-list)

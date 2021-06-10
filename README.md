@@ -21,6 +21,10 @@
 * [Max Subset Sum No Adjacent](./dynamic-programming/max-subset-sum-no-adjacent)
 * [Min Number of Coins for Change](./dynamic-programming/min-number-of-coins-for-change)
 
+### Graphs
+
+* [Single Cycle Check](./graphs/single-cycle-check)
+
 ### Heaps
 
 * [Min Heap Construction](./heaps/min-heap-construction)

@@ -44,6 +44,7 @@
 ### Binary Trees
 
 * [Branch Sums](./binary-trees/branch-sums)
+* [Node Depths](./binary-trees/node-depths)
 
 ### Recursion
 

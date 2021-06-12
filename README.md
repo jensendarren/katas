@@ -120,5 +120,11 @@ a = [. . .] (size: N)
 
 f1(a) => 1 + a[0]   runs in O(1)  'constant time'
 f2(a) => sum(a)     runs in O(N)  'linear time'
-f3(a) => pair(a)    runs in O(n<sup>2</sup>)) 'quadratic time'
+f3(a) => pair(a)    runs in O(n**2) 'quadratic time'
 ```
+
+**Big O Notation Graph**
+
+For more infomation on Big O Notation check out [this article]().
+
+<img src='big-o-notation-graph.png'></img>

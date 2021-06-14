@@ -30,6 +30,7 @@
 ### Greedy Algorithms
 
 * [Min Waiting Time](./greedy-algorithms/min-waiting-time)
+* [Class Photos](./greedy-algorithms/class-photos)
 
 ### Algorithms
 

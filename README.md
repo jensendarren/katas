@@ -12,6 +12,7 @@
 ### Strings
 
 * [Ceasars Cipher](./strings/ceasars-cipher)
+* [Run-Length Encoding](./strings/run-length-encoding)
 
 ### Dynamic Programming
 

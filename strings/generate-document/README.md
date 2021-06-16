@@ -21,8 +21,8 @@ Note: you can always generate the empty string (`""`).
 ### Sample Input
 
 ```
-characters = "Bste!hetsi ogEAxpelrt x "
-document = "AlgoExpert is the Best!"
+characters = "otBaBsteDe!herotvsi ogEptseabpl x "
+document = "DevBootstrap is the Best!"
 ```
 
 ### Sample Output

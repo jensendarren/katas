@@ -13,6 +13,7 @@
 
 * [Ceasars Cipher](./strings/ceasars-cipher)
 * [Run-Length Encoding](./strings/run-length-encoding)
+* [Generate Document](./strings/generate-document)
 
 ### Dynamic Programming
 

@@ -50,6 +50,7 @@
 ### Recursion
 
 * [Product Sum](./recursion/product-sum)
+* [Permutations](./recursion/permutations)
 
 ### Search
 

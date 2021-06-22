@@ -6,13 +6,18 @@ function getPermutations(array) {
 }
 
 function permutationsHelper(i, array, permutations) {
-    console.log(array)
+    // when pointer, i, is at the end of the array then we
+    // can add this as a new permuation to the permutations array
     if (i === array.length -1) {
         permutations.push(array.slice())
     } else {
+        // create a pointer to move accross the array
         for(let j = i; j < array.length; j++) {
+            // swap the positions of pointer i and j
             swap(i,j,array);
+            // recursivly call the helper with the increamented pointer i
             permutationsHelper(i+1, array, permutations);
+            // swap the values back again ready for the next iteration
             swap(i,j,array);
         }
     }

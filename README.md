@@ -51,6 +51,7 @@
 
 * [Product Sum](./recursion/product-sum)
 * [Permutations](./recursion/permutations)
+* [Solve Sudoku](./recursion/solve-sudoku)
 
 ### Search
 

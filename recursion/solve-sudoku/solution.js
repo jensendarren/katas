@@ -13,15 +13,20 @@ function solvePartialSudoku(row, col, board) {
     if (currentCol === board[currentRow].length) {
         currentRow++;
         currentCol = 0;
-		// we have no more rows to check so therefore we have solved the board!
+        // we have no more rows to check so therefore we have solved the board!
         if(currentRow === board.length) return true;
     }
 
-	// if the current position has not been set
+    // if the current position has not been set
     if (board[currentRow][currentCol] === 0) {
         return tryDigitsAtPosition(currentRow, currentCol, board);
     }
 
+    // since we do not have a value of 0 at the current position then we
+    // need to move to the next column and check that
+    // rememeber that the first thing the solvePartialSudoku does
+    // is to move down if we are at the last column so we just increment col index
+    // and then call the function recursivly
     return solvePartialSudoku(currentRow, currentCol + 1, board);
 }
 
@@ -31,6 +36,7 @@ function tryDigitsAtPosition(row, col, board) {
             // if it is valid (for this moment) then
             // update the position with this digit
             board[row][col] = digit;
+            // now try to solve the rest of the board
             if (solvePartialSudoku(row, col + 1, board)) return true;
          }
     }
@@ -49,17 +55,17 @@ function isValidAtPostion(value, row, col, board) {
     if (!rowIsValid || !colIsValid) return false;
 
     // check the subgrid constraint
-	// calculate the index position of the subgrid
+    // calculate the index position of the subgrid
     const subgridRowStart = Math.floor(row/3) * 3;
     const subgridColStart = Math.floor(col/3) * 3;
-	// loop all the elemetns of the subgrid
+    // loop all the elemetns of the subgrid
     for(let rowIdx = 0; rowIdx < 3; rowIdx++) {
         for(let colIdx = 0; colIdx < 3; colIdx++) {
-			// check each element one by one
+            // check each element one by one
             const rowToCheck = subgridRowStart + rowIdx;
             const colToCheck = subgridColStart + colIdx;
             const existingValue = board[rowToCheck][colToCheck];
-		    // if any of the elements contain the value then return false
+            // if any of the elements contain the value then return false
             if (existingValue === value) return false;
         }
     }

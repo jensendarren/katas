@@ -43,6 +43,7 @@
 ### Binary Search Trees
 
 * [Find Closest Value in BST](./bst/find-closest)
+* [BST](./bst/bst-construction)
 
 ### Binary Trees
 

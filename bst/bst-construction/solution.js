@@ -48,6 +48,7 @@ class BST {
     // Average: O(log(n)) time | O(log(n)) space
     // Worst: O(n) time | O(n) space
     remove(value, parent = null) {
+        // keep moving down the tree untill..
         if(value < this.value)  {
             if(this.left !== null) {
                 this.left.remove(value, this);
@@ -57,8 +58,12 @@ class BST {
                 this.right.remove(value, this);
             }
         } else {
+            // you find the node you want to remove
             if (this.left !== null && this.right !== null) {
+                // get the min value from the right tree to
+                // use as the replacement for the node being removed
                 this.value = this.right.getMinValue();
+                // remove that value from the tree
                 this.right.remove(this.value, this)
             } else if(parent===null) {
                 if(this.left !==null) {

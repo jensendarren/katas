@@ -9,6 +9,7 @@
 * [Four Number Sum](./arrays/four-number-sum)
 * [Validate Subsequence](./arrays/validate-subsequence)
 * [Sorted Squared Array](./arrays/sorted-squared-array)
+* [Largest Range](./arrays/largest-range)
 
 ### Strings
 

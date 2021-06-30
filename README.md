@@ -64,6 +64,7 @@
 
 ### Linked Lists
 
+* [Linked List Constuction](./linked-lists/linked-list-construction)
 * [Remove Duplicates from List](./linked-lists/remove-duplicates-from-list)
 * [Find Loop](./linked-lists/find-loop)
 

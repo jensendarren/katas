@@ -65,6 +65,7 @@
 ### Linked Lists
 
 * [Remove Duplicates from List](./linked-lists/remove-duplicates-from-list)
+* [Find Loop](./linked-lists/find-loop)
 
 ## Complexity Analysis
 

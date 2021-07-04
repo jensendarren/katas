@@ -62,6 +62,10 @@
 
 * [Find Three Largest Numbers](./search/find-three-largest)
 
+### Stacks
+
+* [Min Max Stack Construction](./stacks/min-max-stack-construction/.)
+
 ### Linked Lists
 
 * [Linked List Constuction](./linked-lists/linked-list-construction)

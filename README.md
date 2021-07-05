@@ -10,6 +10,7 @@
 * [Validate Subsequence](./arrays/validate-subsequence)
 * [Sorted Squared Array](./arrays/sorted-squared-array)
 * [Largest Range](./arrays/largest-range)
+* [Monotonic Array](./arrays/monotonic-array)
 
 ### Strings
 

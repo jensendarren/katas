@@ -25,6 +25,7 @@
 * [Max Subset Sum No Adjacent](./dynamic-programming/max-subset-sum-no-adjacent)
 * [Min Number of Coins for Change](./dynamic-programming/min-number-of-coins-for-change)
 * [Numbers In Pi](./dynamic-programming/numbers-in-pi)
+* [Disk Stacking](./dynamic-programming/disk-stacking)
 
 ### Graphs
 

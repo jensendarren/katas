@@ -1,4 +1,4 @@
-## Dynamic Programming : Water Area 
+## Dynamic Programming : Water Area
 
 You're given an array of non-negative integers where each non-zero integer
 represents the height of a pillar of width <span>1</span>. Imagine water being
@@ -35,3 +35,4 @@ heights = [0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3]
 // _|..|..|..||.|
 ```
 
+<img src='water-area-kata.png'></img>

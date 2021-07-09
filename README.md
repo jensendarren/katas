@@ -60,6 +60,7 @@
 * [Product Sum](./recursion/product-sum)
 * [Permutations](./recursion/permutations)
 * [Solve Sudoku](./recursion/solve-sudoku)
+* [Phone Number Mnemonics](./recursion/phone-number-mnemonics)
 
 ### Search
 

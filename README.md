@@ -18,6 +18,7 @@
 * [Run-Length Encoding](./strings/run-length-encoding)
 * [Generate Document](./strings/generate-document)
 * [Pattern Matcher](./strings/pattern-matcher)
+* [Group Anagrams](./strings/group-anagrams)
 
 ### Dynamic Programming
 
